@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkForest", "DarkForest.csproj", "{E58AEC9D-3CCF-4EEA-83CA-A486E5B93CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58AEC9D-3CCF-4EEA-83CA-A486E5B93CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58AEC9D-3CCF-4EEA-83CA-A486E5B93CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58AEC9D-3CCF-4EEA-83CA-A486E5B93CDC}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{E58AEC9D-3CCF-4EEA-83CA-A486E5B93CDC}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{E58AEC9D-3CCF-4EEA-83CA-A486E5B93CDC}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{E58AEC9D-3CCF-4EEA-83CA-A486E5B93CDC}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal

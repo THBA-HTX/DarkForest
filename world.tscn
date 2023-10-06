@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://bmltlk8thu178"]
+
+[ext_resource type="Script" path="res://CharacterBody2D.cs" id="1_2sy5p"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_cl6b2"]
+size = Vector2(156, 86)
+
+[node name="World" type="Node2D"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+script = ExtResource("1_2sy5p")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D"]
+position = Vector2(552, 197)
+shape = SubResource("RectangleShape2D_cl6b2")
+debug_color = Color(0.964706, 0, 0.498039, 0.419608)
